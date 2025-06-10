@@ -42,7 +42,7 @@ The goal of this project was to get hands-on practice with the most essential pa
 ## 📬 Contact
 
 Let's connect or collaborate!  
-[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyjokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
